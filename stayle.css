@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+canvas{
+	background-color: #313C59;
+}
+.container{
+	display: flex;
+	justify-content: center;
+}
+
+.button_sound{
+	position: absolute;
+	top: 5px;
+	right: 20px;
+	color: #FFFFFF;
+	background-color: #3BAFCC;
+	border-radius: 20px;
+	padding: 10px;
+	cursor: pointer;
+}
